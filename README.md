@@ -1,4 +1,4 @@
-# DoTweenShow
+# DOTween Show
 
 Easy and flexible Animation Framework for C#/Unity.
 
