@@ -18,7 +18,7 @@ myTweenerTransform = transform.DOScale(new Vector3(2, 2, 2), 1.75f)
 
 ## C# Infos
 
-![Working Image (Sprite)](./pic/smiley.png)
+![Working Image (Sprite)](./pic/ok_gruen.png.png)
 
-* Change the PNG Image in a Sprite (2D, Single)
+* Change the PNG Image in a Sprite (2D, Single) - use the [white smiley.png](./pic/smiley.png)
 * Animation Curves: https://easings.net/
