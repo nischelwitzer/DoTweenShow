@@ -2,10 +2,10 @@
 
 Easy and flexible Animation Framework for C#/Unity.
 
-## DoTween Download
+## DoTween Infos and Download
 
 * Website: https://dotween.demigiant.com/
-* Download: https://dotween.demigiant.com/download.php
+* free Download: https://dotween.demigiant.com/download.php
 * [Asset Store Download](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?srsltid=AfmBOorXRxugKiRzbLOT3d9xsTfoTs6TSaum2Oz47m6NgQAi4IBZuX-_)
 
 ```
